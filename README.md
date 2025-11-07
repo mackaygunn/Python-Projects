@@ -1,6 +1,8 @@
 # Myspace - Python Mini projects
 This respository contains a collection of Python projects I built to improve my programming logic, problem-solving skills and understanding of algorithms.
 
+#### Learn
+
 ## Projects included
 ### 1. Abbreviation maker
 ### 2. Guessing game
