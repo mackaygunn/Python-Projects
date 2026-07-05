@@ -1,0 +1,4190 @@
+{
+    "typical": {
+        "male": {
+            "000010011": {
+                "gender": "male",
+                "score": 8
+            },
+            "000010063": {
+                "gender": "male",
+                "score": 9
+            },
+            "000010089": {
+                "gender": "male",
+                "score": 9
+            },
+            "000010095": {
+                "gender": "male",
+                "score": 9
+            },
+            "000010122": {
+                "gender": "male",
+                "score": 9
+            },
+            "000050003": {
+                "gender": "male",
+                "score": 7
+            },
+            "000050028": {
+                "gender": "male",
+                "score": 8
+            },
+            "000050049": {
+                "gender": "male",
+                "score": 7
+            },
+            "000050078": {
+                "gender": "male",
+                "score": 7
+            },
+            "000050100": {
+                "gender": "male",
+                "score": 7
+            },
+            "000050174": {
+                "gender": "male",
+                "score": 7
+            },
+            "000540004": {
+                "gender": "male",
+                "score": 7
+            },
+            "000540018": {
+                "gender": "male",
+                "score": 8
+            },
+            "000540054": {
+                "gender": "male",
+                "score": 9
+            },
+            "000540123": {
+                "gender": "male",
+                "score": 7
+            },
+            "000540130": {
+                "gender": "male",
+                "score": 8
+            },
+            "000540156": {
+                "gender": "male",
+                "score": 8
+            },
+            "000560033": {
+                "gender": "male",
+                "score": 8
+            },
+            "000560074": {
+                "gender": "male",
+                "score": 8
+            },
+            "000560084": {
+                "gender": "male",
+                "score": 7
+            },
+            "000560086": {
+                "gender": "male",
+                "score": 7
+            },
+            "000560088": {
+                "gender": "male",
+                "score": 8
+            },
+            "000560116": {
+                "gender": "male",
+                "score": 7
+            },
+            "000560134": {
+                "gender": "male",
+                "score": 7
+            },
+            "000750026": {
+                "gender": "male",
+                "score": 7
+            },
+            "000750029": {
+                "gender": "male",
+                "score": 8
+            },
+            "000750101": {
+                "gender": "male",
+                "score": 8
+            },
+            "000750108": {
+                "gender": "male",
+                "score": 7
+            },
+            "001030008": {
+                "gender": "male",
+                "score": 9
+            },
+            "001030013": {
+                "gender": "male",
+                "score": 8
+            },
+            "001030032": {
+                "gender": "male",
+                "score": 8
+            },
+            "001030060": {
+                "gender": "male",
+                "score": 8
+            },
+            "001030078": {
+                "gender": "male",
+                "score": 8
+            },
+            "001030090": {
+                "gender": "male",
+                "score": 8
+            },
+            "001030121": {
+                "gender": "male",
+                "score": 8
+            },
+            "001030155": {
+                "gender": "male",
+                "score": 9
+            },
+            "001310022": {
+                "gender": "male",
+                "score": 8
+            },
+            "001310062": {
+                "gender": "male",
+                "score": 8
+            },
+            "001310123": {
+                "gender": "male",
+                "score": 7
+            },
+            "001310152": {
+                "gender": "male",
+                "score": 7
+            },
+            "001310154": {
+                "gender": "male",
+                "score": 8
+            },
+            "001310168": {
+                "gender": "male",
+                "score": 7
+            },
+            "004820045": {
+                "gender": "male",
+                "score": 9
+            },
+            "004820214": {
+                "gender": "male",
+                "score": 9
+            },
+            "004820220": {
+                "gender": "male",
+                "score": 9
+            },
+            "004820268": {
+                "gender": "male",
+                "score": 7
+            },
+            "005600154": {
+                "gender": "male",
+                "score": 7
+            },
+            "005600212": {
+                "gender": "male",
+                "score": 7
+            },
+            "005600294": {
+                "gender": "male",
+                "score": 7
+            },
+            "005600365": {
+                "gender": "male",
+                "score": 7
+            },
+            "007390072": {
+                "gender": "male",
+                "score": 7
+            },
+            "007390092": {
+                "gender": "male",
+                "score": 7
+            },
+            "007390119": {
+                "gender": "male",
+                "score": 7
+            },
+            "007390228": {
+                "gender": "male",
+                "score": 7
+            },
+            "009600127": {
+                "gender": "male",
+                "score": 8
+            },
+            "009600215": {
+                "gender": "male",
+                "score": 7
+            },
+            "010120193": {
+                "gender": "male",
+                "score": 9
+            },
+            "010120265": {
+                "gender": "male",
+                "score": 8
+            },
+            "010120303": {
+                "gender": "male",
+                "score": 8
+            },
+            "010270198": {
+                "gender": "male",
+                "score": 9
+            },
+            "010270238": {
+                "gender": "male",
+                "score": 9
+            },
+            "010270265": {
+                "gender": "male",
+                "score": 9
+            },
+            "010270294": {
+                "gender": "male",
+                "score": 8
+            },
+            "010270301": {
+                "gender": "male",
+                "score": 8
+            },
+            "010270349": {
+                "gender": "male",
+                "score": 9
+            },
+            "010270354": {
+                "gender": "male",
+                "score": 8
+            },
+            "010270356": {
+                "gender": "male",
+                "score": 8
+            },
+            "010270377": {
+                "gender": "male",
+                "score": 8
+            },
+            "010290066": {
+                "gender": "male",
+                "score": 8
+            },
+            "010290123": {
+                "gender": "male",
+                "score": 8
+            },
+            "010290152": {
+                "gender": "male",
+                "score": 9
+            },
+            "010290179": {
+                "gender": "male",
+                "score": 9
+            },
+            "010290236": {
+                "gender": "male",
+                "score": 9
+            },
+            "010290294": {
+                "gender": "male",
+                "score": 9
+            },
+            "010290330": {
+                "gender": "male",
+                "score": 9
+            },
+            "010290341": {
+                "gender": "male",
+                "score": 9
+            },
+            "010330033": {
+                "gender": "male",
+                "score": 8
+            },
+            "010330052": {
+                "gender": "male",
+                "score": 8
+            },
+            "010330053": {
+                "gender": "male",
+                "score": 9
+            },
+            "010330139": {
+                "gender": "male",
+                "score": 8
+            },
+            "010640005": {
+                "gender": "male",
+                "score": 7
+            },
+            "010640017": {
+                "gender": "male",
+                "score": 7
+            },
+            "010640028": {
+                "gender": "male",
+                "score": 7
+            },
+            "010640036": {
+                "gender": "male",
+                "score": 7
+            },
+            "010640082": {
+                "gender": "male",
+                "score": 7
+            },
+            "010640166": {
+                "gender": "male",
+                "score": 7
+            },
+            "010640277": {
+                "gender": "male",
+                "score": 8
+            },
+            "010640286": {
+                "gender": "male",
+                "score": 8
+            },
+            "010640297": {
+                "gender": "male",
+                "score": 7
+            },
+            "010920141": {
+                "gender": "male",
+                "score": 7
+            },
+            "011970004": {
+                "gender": "male",
+                "score": 7
+            },
+            "011970042": {
+                "gender": "male",
+                "score": 9
+            },
+            "011970142": {
+                "gender": "male",
+                "score": 8
+            },
+            "012030007": {
+                "gender": "male",
+                "score": 8
+            },
+            "012030024": {
+                "gender": "male",
+                "score": 8
+            },
+            "012030027": {
+                "gender": "male",
+                "score": 7
+            },
+            "012030072": {
+                "gender": "male",
+                "score": 8
+            },
+            "012030078": {
+                "gender": "male",
+                "score": 7
+            },
+            "012600017": {
+                "gender": "male",
+                "score": 7
+            },
+            "012600186": {
+                "gender": "male",
+                "score": 7
+            },
+            "012600219": {
+                "gender": "male",
+                "score": 7
+            },
+            "012600251": {
+                "gender": "male",
+                "score": 7
+            },
+            "012600295": {
+                "gender": "male",
+                "score": 7
+            },
+            "013090105": {
+                "gender": "male",
+                "score": 8
+            },
+            "013090160": {
+                "gender": "male",
+                "score": 8
+            },
+            "013090184": {
+                "gender": "male",
+                "score": 8
+            },
+            "013090185": {
+                "gender": "male",
+                "score": 8
+            },
+            "013090232": {
+                "gender": "male",
+                "score": 7
+            },
+            "013360016": {
+                "gender": "male",
+                "score": 7
+            },
+            "013360130": {
+                "gender": "male",
+                "score": 7
+            },
+            "013360171": {
+                "gender": "male",
+                "score": 7
+            },
+            "013360226": {
+                "gender": "male",
+                "score": 8
+            },
+            "013360234": {
+                "gender": "male",
+                "score": 7
+            },
+            "013360235": {
+                "gender": "male",
+                "score": 8
+            },
+            "013360360": {
+                "gender": "male",
+                "score": 7
+            },
+            "014070265": {
+                "gender": "male",
+                "score": 7
+            },
+            "014070297": {
+                "gender": "male",
+                "score": 7
+            },
+            "014070308": {
+                "gender": "male",
+                "score": 7
+            },
+            "014180158": {
+                "gender": "male",
+                "score": 9
+            },
+            "014180166": {
+                "gender": "male",
+                "score": 8
+            },
+            "014190006": {
+                "gender": "male",
+                "score": 8
+            },
+            "014190064": {
+                "gender": "male",
+                "score": 7
+            },
+            "014190108": {
+                "gender": "male",
+                "score": 7
+            },
+            "014190172": {
+                "gender": "male",
+                "score": 7
+            },
+            "014350157": {
+                "gender": "male",
+                "score": 9
+            },
+            "014350165": {
+                "gender": "male",
+                "score": 8
+            },
+            "014390009": {
+                "gender": "male",
+                "score": 8
+            },
+            "014390064": {
+                "gender": "male",
+                "score": 8
+            },
+            "014390068": {
+                "gender": "male",
+                "score": 8
+            },
+            "014390090": {
+                "gender": "male",
+                "score": 7
+            },
+            "014390143": {
+                "gender": "male",
+                "score": 7
+            },
+            "014470017": {
+                "gender": "male",
+                "score": 8
+            },
+            "014470028": {
+                "gender": "male",
+                "score": 8
+            },
+            "014470109": {
+                "gender": "male",
+                "score": 8
+            },
+            "014470141": {
+                "gender": "male",
+                "score": 7
+            },
+            "020340043": {
+                "gender": "male",
+                "score": 8
+            },
+            "020340096": {
+                "gender": "male",
+                "score": 8
+            },
+            "020340098": {
+                "gender": "male",
+                "score": 8
+            },
+            "020340156": {
+                "gender": "male",
+                "score": 8
+            },
+            "020340166": {
+                "gender": "male",
+                "score": 8
+            },
+            "022360092": {
+                "gender": "male",
+                "score": 8
+            },
+            "022360186": {
+                "gender": "male",
+                "score": 8
+            },
+            "022360227": {
+                "gender": "male",
+                "score": 7
+            },
+            "022360350": {
+                "gender": "male",
+                "score": 7
+            },
+            "022420015": {
+                "gender": "male",
+                "score": 9
+            },
+            "022420067": {
+                "gender": "male",
+                "score": 8
+            },
+            "022420086": {
+                "gender": "male",
+                "score": 9
+            },
+            "022420106": {
+                "gender": "male",
+                "score": 9
+            },
+            "022420146": {
+                "gender": "male",
+                "score": 9
+            },
+            "022420168": {
+                "gender": "male",
+                "score": 9
+            },
+            "022420172": {
+                "gender": "male",
+                "score": 9
+            },
+            "022420346": {
+                "gender": "male",
+                "score": 8
+            },
+            "026210047": {
+                "gender": "male",
+                "score": 8
+            },
+            "026210132": {
+                "gender": "male",
+                "score": 8
+            },
+            "026210135": {
+                "gender": "male",
+                "score": 8
+            },
+            "026210136": {
+                "gender": "male",
+                "score": 8
+            },
+            "026210177": {
+                "gender": "male",
+                "score": 8
+            },
+            "026210220": {
+                "gender": "male",
+                "score": 7
+            },
+            "026210302": {
+                "gender": "male",
+                "score": 8
+            },
+            "030020047": {
+                "gender": "male",
+                "score": 8
+            },
+            "030020112": {
+                "gender": "male",
+                "score": 9
+            },
+            "030020117": {
+                "gender": "male",
+                "score": 8
+            },
+            "030020161": {
+                "gender": "male",
+                "score": 8
+            },
+            "030020162": {
+                "gender": "male",
+                "score": 7
+            },
+            "030200016": {
+                "gender": "male",
+                "score": 9
+            },
+            "030200018": {
+                "gender": "male",
+                "score": 8
+            },
+            "030200019": {
+                "gender": "male",
+                "score": 8
+            },
+            "030200076": {
+                "gender": "male",
+                "score": 9
+            },
+            "030200101": {
+                "gender": "male",
+                "score": 8
+            },
+            "030200137": {
+                "gender": "male",
+                "score": 8
+            },
+            "030200153": {
+                "gender": "male",
+                "score": 8
+            },
+            "030230018": {
+                "gender": "male",
+                "score": 8
+            },
+            "030230060": {
+                "gender": "male",
+                "score": 8
+            },
+            "030230276": {
+                "gender": "male",
+                "score": 8
+            },
+            "030460032": {
+                "gender": "male",
+                "score": 8
+            },
+            "030460048": {
+                "gender": "male",
+                "score": 8
+            },
+            "030460051": {
+                "gender": "male",
+                "score": 7
+            },
+            "030460085": {
+                "gender": "male",
+                "score": 7
+            },
+            "030460114": {
+                "gender": "male",
+                "score": 7
+            },
+            "030460146": {
+                "gender": "male",
+                "score": 7
+            },
+            "030460147": {
+                "gender": "male",
+                "score": 7
+            },
+            "030460157": {
+                "gender": "male",
+                "score": 8
+            },
+            "030460160": {
+                "gender": "male",
+                "score": 7
+            },
+            "030490013": {
+                "gender": "male",
+                "score": 7
+            },
+            "030490040": {
+                "gender": "male",
+                "score": 8
+            },
+            "030490062": {
+                "gender": "male",
+                "score": 7
+            },
+            "030490127": {
+                "gender": "male",
+                "score": 8
+            },
+            "030490142": {
+                "gender": "male",
+                "score": 7
+            },
+            "030490168": {
+                "gender": "male",
+                "score": 8
+            },
+            "030490170": {
+                "gender": "male",
+                "score": 7
+            },
+            "030680054": {
+                "gender": "male",
+                "score": 8
+            },
+            "030680090": {
+                "gender": "male",
+                "score": 8
+            },
+            "030680097": {
+                "gender": "male",
+                "score": 8
+            },
+            "030680140": {
+                "gender": "male",
+                "score": 7
+            },
+            "030880015": {
+                "gender": "male",
+                "score": 8
+            },
+            "030880018": {
+                "gender": "male",
+                "score": 8
+            },
+            "030880025": {
+                "gender": "male",
+                "score": 7
+            },
+            "030880057": {
+                "gender": "male",
+                "score": 8
+            },
+            "030880067": {
+                "gender": "male",
+                "score": 7
+            },
+            "030880092": {
+                "gender": "male",
+                "score": 8
+            },
+            "030880172": {
+                "gender": "male",
+                "score": 8
+            },
+            "036360027": {
+                "gender": "male",
+                "score": 8
+            },
+            "036360029": {
+                "gender": "male",
+                "score": 8
+            },
+            "036360034": {
+                "gender": "male",
+                "score": 9
+            },
+            "036360071": {
+                "gender": "male",
+                "score": 8
+            },
+            "036360160": {
+                "gender": "male",
+                "score": 8
+            },
+            "036360174": {
+                "gender": "male",
+                "score": 8
+            },
+            "054010055": {
+                "gender": "male",
+                "score": 8
+            },
+            "054010061": {
+                "gender": "male",
+                "score": 8
+            },
+            "054010079": {
+                "gender": "male",
+                "score": 7
+            },
+            "054010091": {
+                "gender": "male",
+                "score": 8
+            },
+            "054010095": {
+                "gender": "male",
+                "score": 8
+            },
+            "054010105": {
+                "gender": "male",
+                "score": 8
+            },
+            "054010155": {
+                "gender": "male",
+                "score": 8
+            },
+            "054080008": {
+                "gender": "male",
+                "score": 9
+            },
+            "054080011": {
+                "gender": "male",
+                "score": 8
+            },
+            "054080019": {
+                "gender": "male",
+                "score": 8
+            },
+            "054080033": {
+                "gender": "male",
+                "score": 8
+            },
+            "054080035": {
+                "gender": "male",
+                "score": 8
+            },
+            "054080123": {
+                "gender": "male",
+                "score": 8
+            },
+            "055510029": {
+                "gender": "male",
+                "score": 8
+            },
+            "055510046": {
+                "gender": "male",
+                "score": 8
+            },
+            "055510070": {
+                "gender": "male",
+                "score": 8
+            },
+            "055510079": {
+                "gender": "male",
+                "score": 7
+            },
+            "055510084": {
+                "gender": "male",
+                "score": 7
+            },
+            "055510093": {
+                "gender": "male",
+                "score": 7
+            },
+            "055510110": {
+                "gender": "male",
+                "score": 8
+            },
+            "055510130": {
+                "gender": "male",
+                "score": 7
+            },
+            "055510143": {
+                "gender": "male",
+                "score": 7
+            },
+            "060480082": {
+                "gender": "male",
+                "score": 8
+            },
+            "060480104": {
+                "gender": "male",
+                "score": 7
+            },
+            "060480168": {
+                "gender": "male",
+                "score": 7
+            },
+            "060480169": {
+                "gender": "male",
+                "score": 7
+            },
+            "065040077": {
+                "gender": "male",
+                "score": 9
+            },
+            "065040112": {
+                "gender": "male",
+                "score": 8
+            },
+            "065040124": {
+                "gender": "male",
+                "score": 8
+            },
+            "065040126": {
+                "gender": "male",
+                "score": 8
+            },
+            "065040134": {
+                "gender": "male",
+                "score": 8
+            },
+            "065040160": {
+                "gender": "male",
+                "score": 8
+            },
+            "069120025": {
+                "gender": "male",
+                "score": 8
+            },
+            "069120121": {
+                "gender": "male",
+                "score": 8
+            },
+            "085850024": {
+                "gender": "male",
+                "score": 9
+            },
+            "085850039": {
+                "gender": "male",
+                "score": 8
+            },
+            "085850046": {
+                "gender": "male",
+                "score": 9
+            },
+            "085850075": {
+                "gender": "male",
+                "score": 8
+            },
+            "085850094": {
+                "gender": "male",
+                "score": 8
+            },
+            "085850112": {
+                "gender": "male",
+                "score": 7
+            },
+            "085850138": {
+                "gender": "male",
+                "score": 8
+            },
+            "085850170": {
+                "gender": "male",
+                "score": 7
+            },
+            "095560005": {
+                "gender": "male",
+                "score": 7
+            },
+            "095560010": {
+                "gender": "male",
+                "score": 7
+            },
+            "095560017": {
+                "gender": "male",
+                "score": 7
+            },
+            "095560069": {
+                "gender": "male",
+                "score": 8
+            },
+            "095560115": {
+                "gender": "male",
+                "score": 9
+            },
+            "095560133": {
+                "gender": "male",
+                "score": 7
+            },
+            "095560163": {
+                "gender": "male",
+                "score": 8
+            },
+            "096240008": {
+                "gender": "male",
+                "score": 7
+            },
+            "096390007": {
+                "gender": "male",
+                "score": 8
+            },
+            "096390009": {
+                "gender": "male",
+                "score": 7
+            },
+            "096390017": {
+                "gender": "male",
+                "score": 7
+            },
+            "096190002": {
+                "gender": "male",
+                "score": 7
+            }
+        },
+        "female": {
+            "000060029": {
+                "gender": "female",
+                "score": 9
+            },
+            "000060031": {
+                "gender": "female",
+                "score": 9
+            },
+            "000060082": {
+                "gender": "female",
+                "score": 9
+            },
+            "000060083": {
+                "gender": "female",
+                "score": 9
+            },
+            "000060116": {
+                "gender": "female",
+                "score": 9
+            },
+            "000260048": {
+                "gender": "female",
+                "score": 8
+            },
+            "000260126": {
+                "gender": "female",
+                "score": 9
+            },
+            "000360034": {
+                "gender": "female",
+                "score": 8
+            },
+            "000360132": {
+                "gender": "female",
+                "score": 8
+            },
+            "000360190": {
+                "gender": "female",
+                "score": 8
+            },
+            "000360313": {
+                "gender": "female",
+                "score": 8
+            },
+            "000360314": {
+                "gender": "female",
+                "score": 8
+            },
+            "000360339": {
+                "gender": "female",
+                "score": 8
+            },
+            "000360378": {
+                "gender": "female",
+                "score": 8
+            },
+            "000530003": {
+                "gender": "female",
+                "score": 8
+            },
+            "000530006": {
+                "gender": "female",
+                "score": 8
+            },
+            "000530027": {
+                "gender": "female",
+                "score": 7
+            },
+            "000530077": {
+                "gender": "female",
+                "score": 7
+            },
+            "000530094": {
+                "gender": "female",
+                "score": 8
+            },
+            "000530154": {
+                "gender": "female",
+                "score": 8
+            },
+            "000530163": {
+                "gender": "female",
+                "score": 7
+            },
+            "000700008": {
+                "gender": "female",
+                "score": 8
+            },
+            "000700034": {
+                "gender": "female",
+                "score": 8
+            },
+            "000700037": {
+                "gender": "female",
+                "score": 7
+            },
+            "001040022": {
+                "gender": "female",
+                "score": 8
+            },
+            "001040026": {
+                "gender": "female",
+                "score": 8
+            },
+            "001040067": {
+                "gender": "female",
+                "score": 8
+            },
+            "001040069": {
+                "gender": "female",
+                "score": 8
+            },
+            "001040073": {
+                "gender": "female",
+                "score": 8
+            },
+            "001040106": {
+                "gender": "female",
+                "score": 7
+            },
+            "001040115": {
+                "gender": "female",
+                "score": 7
+            },
+            "001040134": {
+                "gender": "female",
+                "score": 8
+            },
+            "001040149": {
+                "gender": "female",
+                "score": 7
+            },
+            "001350091": {
+                "gender": "female",
+                "score": 8
+            },
+            "001350163": {
+                "gender": "female",
+                "score": 9
+            },
+            "001350216": {
+                "gender": "female",
+                "score": 9
+            },
+            "001350350": {
+                "gender": "female",
+                "score": 10
+            },
+            "001450037": {
+                "gender": "female",
+                "score": 8
+            },
+            "001450043": {
+                "gender": "female",
+                "score": 7
+            },
+            "001450049": {
+                "gender": "female",
+                "score": 7
+            },
+            "001450083": {
+                "gender": "female",
+                "score": 7
+            },
+            "001450159": {
+                "gender": "female",
+                "score": 7
+            },
+            "005750168": {
+                "gender": "female",
+                "score": 7
+            },
+            "005750178": {
+                "gender": "female",
+                "score": 7
+            },
+            "005750298": {
+                "gender": "female",
+                "score": 7
+            },
+            "005750303": {
+                "gender": "female",
+                "score": 7
+            },
+            "005750330": {
+                "gender": "female",
+                "score": 7
+            },
+            "005940025": {
+                "gender": "female",
+                "score": 7
+            },
+            "005940142": {
+                "gender": "female",
+                "score": 7
+            },
+            "005940174": {
+                "gender": "female",
+                "score": 7
+            },
+            "005940271": {
+                "gender": "female",
+                "score": 7
+            },
+            "005940304": {
+                "gender": "female",
+                "score": 8
+            },
+            "008130281": {
+                "gender": "female",
+                "score": 9
+            },
+            "008130283": {
+                "gender": "female",
+                "score": 9
+            },
+            "008130340": {
+                "gender": "female",
+                "score": 9
+            },
+            "008130380": {
+                "gender": "female",
+                "score": 9
+            },
+            "010420025": {
+                "gender": "female",
+                "score": 8
+            },
+            "010420034": {
+                "gender": "female",
+                "score": 8
+            },
+            "010420047": {
+                "gender": "female",
+                "score": 9
+            },
+            "010420157": {
+                "gender": "female",
+                "score": 7
+            },
+            "010420167": {
+                "gender": "female",
+                "score": 7
+            },
+            "010440038": {
+                "gender": "female",
+                "score": 9
+            },
+            "010440064": {
+                "gender": "female",
+                "score": 8
+            },
+            "010440106": {
+                "gender": "female",
+                "score": 8
+            },
+            "013620162": {
+                "gender": "female",
+                "score": 8
+            },
+            "013620184": {
+                "gender": "female",
+                "score": 7
+            },
+            "013620210": {
+                "gender": "female",
+                "score": 7
+            },
+            "013620366": {
+                "gender": "female",
+                "score": 8
+            },
+            "013720051": {
+                "gender": "female",
+                "score": 7
+            },
+            "013720082": {
+                "gender": "female",
+                "score": 8
+            },
+            "013720140": {
+                "gender": "female",
+                "score": 7
+            },
+            "013720153": {
+                "gender": "female",
+                "score": 7
+            },
+            "013720274": {
+                "gender": "female",
+                "score": 7
+            },
+            "013720275": {
+                "gender": "female",
+                "score": 9
+            },
+            "013720360": {
+                "gender": "female",
+                "score": 7
+            },
+            "020220021": {
+                "gender": "female",
+                "score": 8
+            },
+            "020220033": {
+                "gender": "female",
+                "score": 8
+            },
+            "020220091": {
+                "gender": "female",
+                "score": 8
+            },
+            "020220176": {
+                "gender": "female",
+                "score": 7
+            },
+            "020220221": {
+                "gender": "female",
+                "score": 8
+            },
+            "020220264": {
+                "gender": "female",
+                "score": 7
+            },
+            "020360017": {
+                "gender": "female",
+                "score": 9
+            },
+            "020360019": {
+                "gender": "female",
+                "score": 9
+            },
+            "020360220": {
+                "gender": "female",
+                "score": 8
+            },
+            "020360299": {
+                "gender": "female",
+                "score": 8
+            },
+            "020360301": {
+                "gender": "female",
+                "score": 9
+            },
+            "020360312": {
+                "gender": "female",
+                "score": 9
+            },
+            "020590103": {
+                "gender": "female",
+                "score": 8
+            },
+            "020590164": {
+                "gender": "female",
+                "score": 9
+            },
+            "020590228": {
+                "gender": "female",
+                "score": 8
+            },
+            "020610175": {
+                "gender": "female",
+                "score": 8
+            },
+            "020610194": {
+                "gender": "female",
+                "score": 8
+            },
+            "020610316": {
+                "gender": "female",
+                "score": 8
+            },
+            "020890003": {
+                "gender": "female",
+                "score": 8
+            },
+            "020890206": {
+                "gender": "female",
+                "score": 8
+            },
+            "020890260": {
+                "gender": "female",
+                "score": 8
+            },
+            "020890313": {
+                "gender": "female",
+                "score": 9
+            },
+            "021290068": {
+                "gender": "female",
+                "score": 9
+            },
+            "021290160": {
+                "gender": "female",
+                "score": 8
+            },
+            "021290324": {
+                "gender": "female",
+                "score": 9
+            },
+            "021290326": {
+                "gender": "female",
+                "score": 8
+            },
+            "021680237": {
+                "gender": "female",
+                "score": 9
+            },
+            "021680297": {
+                "gender": "female",
+                "score": 8
+            },
+            "021680380": {
+                "gender": "female",
+                "score": 8
+            },
+            "021700034": {
+                "gender": "female",
+                "score": 8
+            },
+            "021700062": {
+                "gender": "female",
+                "score": 9
+            },
+            "021700131": {
+                "gender": "female",
+                "score": 9
+            },
+            "021700211": {
+                "gender": "female",
+                "score": 9
+            },
+            "021700224": {
+                "gender": "female",
+                "score": 9
+            },
+            "021700232": {
+                "gender": "female",
+                "score": 9
+            },
+            "021700362": {
+                "gender": "female",
+                "score": 9
+            },
+            "021790025": {
+                "gender": "female",
+                "score": 9
+            },
+            "021790030": {
+                "gender": "female",
+                "score": 9
+            },
+            "021790043": {
+                "gender": "female",
+                "score": 9
+            },
+            "021790081": {
+                "gender": "female",
+                "score": 9
+            },
+            "021790083": {
+                "gender": "female",
+                "score": 9
+            },
+            "021790168": {
+                "gender": "female",
+                "score": 9
+            },
+            "022080038": {
+                "gender": "female",
+                "score": 8
+            },
+            "022080085": {
+                "gender": "female",
+                "score": 7
+            },
+            "022080181": {
+                "gender": "female",
+                "score": 8
+            },
+            "022080204": {
+                "gender": "female",
+                "score": 7
+            },
+            "022080299": {
+                "gender": "female",
+                "score": 8
+            },
+            "022080340": {
+                "gender": "female",
+                "score": 8
+            },
+            "022440062": {
+                "gender": "female",
+                "score": 8
+            },
+            "022440144": {
+                "gender": "female",
+                "score": 8
+            },
+            "022440352": {
+                "gender": "female",
+                "score": 8
+            },
+            "022510069": {
+                "gender": "female",
+                "score": 8
+            },
+            "022510152": {
+                "gender": "female",
+                "score": 8
+            },
+            "022510166": {
+                "gender": "female",
+                "score": 9
+            },
+            "022510211": {
+                "gender": "female",
+                "score": 8
+            },
+            "022820042": {
+                "gender": "female",
+                "score": 7
+            },
+            "022820079": {
+                "gender": "female",
+                "score": 8
+            },
+            "022820106": {
+                "gender": "female",
+                "score": 7
+            },
+            "022820121": {
+                "gender": "female",
+                "score": 8
+            },
+            "023800114": {
+                "gender": "female",
+                "score": 8
+            },
+            "023800277": {
+                "gender": "female",
+                "score": 9
+            },
+            "023800280": {
+                "gender": "female",
+                "score": 8
+            },
+            "023800363": {
+                "gender": "female",
+                "score": 8
+            },
+            "023800368": {
+                "gender": "female",
+                "score": 8
+            },
+            "024020053": {
+                "gender": "female",
+                "score": 8
+            },
+            "024020084": {
+                "gender": "female",
+                "score": 8
+            },
+            "024020142": {
+                "gender": "female",
+                "score": 8
+            },
+            "024020175": {
+                "gender": "female",
+                "score": 8
+            },
+            "024020253": {
+                "gender": "female",
+                "score": 7
+            },
+            "024020256": {
+                "gender": "female",
+                "score": 9
+            },
+            "024020260": {
+                "gender": "female",
+                "score": 9
+            },
+            "024020265": {
+                "gender": "female",
+                "score": 9
+            },
+            "024020291": {
+                "gender": "female",
+                "score": 8
+            },
+            "024020328": {
+                "gender": "female",
+                "score": 9
+            },
+            "024270028": {
+                "gender": "female",
+                "score": 8
+            },
+            "024270051": {
+                "gender": "female",
+                "score": 8
+            },
+            "024270057": {
+                "gender": "female",
+                "score": 8
+            },
+            "024270127": {
+                "gender": "female",
+                "score": 9
+            },
+            "024270183": {
+                "gender": "female",
+                "score": 8
+            },
+            "024300052": {
+                "gender": "female",
+                "score": 8
+            },
+            "024300061": {
+                "gender": "female",
+                "score": 9
+            },
+            "024300068": {
+                "gender": "female",
+                "score": 7
+            },
+            "024300080": {
+                "gender": "female",
+                "score": 8
+            },
+            "024300082": {
+                "gender": "female",
+                "score": 8
+            },
+            "024300330": {
+                "gender": "female",
+                "score": 8
+            },
+            "024300345": {
+                "gender": "female",
+                "score": 9
+            },
+            "024500151": {
+                "gender": "female",
+                "score": 9
+            },
+            "024500317": {
+                "gender": "female",
+                "score": 8
+            },
+            "027990059": {
+                "gender": "female",
+                "score": 8
+            },
+            "027990066": {
+                "gender": "female",
+                "score": 8
+            },
+            "027990153": {
+                "gender": "female",
+                "score": 8
+            },
+            "027990341": {
+                "gender": "female",
+                "score": 8
+            },
+            "029810027": {
+                "gender": "female",
+                "score": 8
+            },
+            "029810234": {
+                "gender": "female",
+                "score": 8
+            },
+            "029810235": {
+                "gender": "female",
+                "score": 7
+            },
+            "029810349": {
+                "gender": "female",
+                "score": 9
+            },
+            "029810360": {
+                "gender": "female",
+                "score": 8
+            },
+            "030210042": {
+                "gender": "female",
+                "score": 8
+            },
+            "030210044": {
+                "gender": "female",
+                "score": 7
+            },
+            "030210050": {
+                "gender": "female",
+                "score": 7
+            },
+            "030210074": {
+                "gender": "female",
+                "score": 8
+            },
+            "030210123": {
+                "gender": "female",
+                "score": 8
+            },
+            "030210137": {
+                "gender": "female",
+                "score": 8
+            },
+            "030210152": {
+                "gender": "female",
+                "score": 7
+            },
+            "030210165": {
+                "gender": "female",
+                "score": 7
+            },
+            "030830001": {
+                "gender": "female",
+                "score": 8
+            },
+            "030830013": {
+                "gender": "female",
+                "score": 7
+            },
+            "030830093": {
+                "gender": "female",
+                "score": 7
+            },
+            "030830124": {
+                "gender": "female",
+                "score": 7
+            },
+            "030830154": {
+                "gender": "female",
+                "score": 8
+            },
+            "032080058": {
+                "gender": "female",
+                "score": 8
+            },
+            "032080093": {
+                "gender": "female",
+                "score": 8
+            },
+            "032080103": {
+                "gender": "female",
+                "score": 9
+            },
+            "034230051": {
+                "gender": "female",
+                "score": 8
+            },
+            "034230058": {
+                "gender": "female",
+                "score": 7
+            },
+            "034230063": {
+                "gender": "female",
+                "score": 9
+            },
+            "034230141": {
+                "gender": "female",
+                "score": 8
+            },
+            "034230154": {
+                "gender": "female",
+                "score": 9
+            },
+            "034230168": {
+                "gender": "female",
+                "score": 8
+            },
+            "038370045": {
+                "gender": "female",
+                "score": 7
+            },
+            "038370052": {
+                "gender": "female",
+                "score": 9
+            },
+            "038370056": {
+                "gender": "female",
+                "score": 8
+            },
+            "038370081": {
+                "gender": "female",
+                "score": 8
+            },
+            "038370097": {
+                "gender": "female",
+                "score": 7
+            },
+            "038370153": {
+                "gender": "female",
+                "score": 7
+            },
+            "038370167": {
+                "gender": "female",
+                "score": 8
+            },
+            "040050015": {
+                "gender": "female",
+                "score": 9
+            },
+            "040050060": {
+                "gender": "female",
+                "score": 8
+            },
+            "051950005": {
+                "gender": "female",
+                "score": 9
+            },
+            "051950088": {
+                "gender": "female",
+                "score": 10
+            },
+            "051950096": {
+                "gender": "female",
+                "score": 9
+            },
+            "052180098": {
+                "gender": "female",
+                "score": 8
+            },
+            "052180146": {
+                "gender": "female",
+                "score": 8
+            },
+            "052180160": {
+                "gender": "female",
+                "score": 9
+            },
+            "054140039": {
+                "gender": "female",
+                "score": 8
+            },
+            "054140077": {
+                "gender": "female",
+                "score": 7
+            },
+            "054140104": {
+                "gender": "female",
+                "score": 8
+            },
+            "054140158": {
+                "gender": "female",
+                "score": 8
+            },
+            "054180033": {
+                "gender": "female",
+                "score": 8
+            },
+            "054180075": {
+                "gender": "female",
+                "score": 8
+            },
+            "054180174": {
+                "gender": "female",
+                "score": 9
+            },
+            "054240038": {
+                "gender": "female",
+                "score": 9
+            },
+            "054240048": {
+                "gender": "female",
+                "score": 8
+            },
+            "054240079": {
+                "gender": "female",
+                "score": 9
+            },
+            "054240094": {
+                "gender": "female",
+                "score": 9
+            },
+            "054240116": {
+                "gender": "female",
+                "score": 8
+            },
+            "054240117": {
+                "gender": "female",
+                "score": 8
+            },
+            "054240126": {
+                "gender": "female",
+                "score": 8
+            },
+            "054240138": {
+                "gender": "female",
+                "score": 8
+            },
+            "060100037": {
+                "gender": "female",
+                "score": 8
+            },
+            "060100081": {
+                "gender": "female",
+                "score": 8
+            },
+            "060100105": {
+                "gender": "female",
+                "score": 7
+            },
+            "061210013": {
+                "gender": "female",
+                "score": 9
+            },
+            "061210068": {
+                "gender": "female",
+                "score": 9
+            },
+            "061210129": {
+                "gender": "female",
+                "score": 9
+            },
+            "061210148": {
+                "gender": "female",
+                "score": 8
+            },
+            "061210174": {
+                "gender": "female",
+                "score": 9
+            },
+            "064010103": {
+                "gender": "female",
+                "score": 7
+            },
+            "064010107": {
+                "gender": "female",
+                "score": 8
+            },
+            "075510017": {
+                "gender": "female",
+                "score": 8
+            },
+            "075510038": {
+                "gender": "female",
+                "score": 7
+            },
+            "075510076": {
+                "gender": "female",
+                "score": 9
+            },
+            "075510091": {
+                "gender": "female",
+                "score": 7
+            },
+            "075510137": {
+                "gender": "female",
+                "score": 8
+            },
+            "075510144": {
+                "gender": "female",
+                "score": 8
+            },
+            "080570053": {
+                "gender": "female",
+                "score": 8
+            },
+            "080570071": {
+                "gender": "female",
+                "score": 8
+            },
+            "080570072": {
+                "gender": "female",
+                "score": 7
+            },
+            "080570081": {
+                "gender": "female",
+                "score": 7
+            },
+            "080570102": {
+                "gender": "female",
+                "score": 7
+            },
+            "080570157": {
+                "gender": "female",
+                "score": 7
+            },
+            "090340032": {
+                "gender": "female",
+                "score": 9
+            },
+            "090340043": {
+                "gender": "female",
+                "score": 8
+            },
+            "090340071": {
+                "gender": "female",
+                "score": 8
+            },
+            "090340085": {
+                "gender": "female",
+                "score": 8
+            },
+            "090340158": {
+                "gender": "female",
+                "score": 9
+            },
+            "090340168": {
+                "gender": "female",
+                "score": 7
+            },
+            "090700008": {
+                "gender": "female",
+                "score": 8
+            },
+            "090700054": {
+                "gender": "female",
+                "score": 8
+            },
+            "090700055": {
+                "gender": "female",
+                "score": 8
+            },
+            "090700059": {
+                "gender": "female",
+                "score": 7
+            },
+            "090700065": {
+                "gender": "female",
+                "score": 7
+            },
+            "090700148": {
+                "gender": "female",
+                "score": 8
+            },
+            "090700164": {
+                "gender": "female",
+                "score": 8
+            },
+            "096110008": {
+                "gender": "female",
+                "score": 7
+            },
+            "096450008": {
+                "gender": "female",
+                "score": 7
+            }
+        }
+    },
+    "atypical": {
+        "male": {
+            "000010113": {
+                "gender": "male",
+                "score": 5
+            },
+            "000050024": {
+                "gender": "male",
+                "score": 6
+            },
+            "000050079": {
+                "gender": "male",
+                "score": 6
+            },
+            "000050083": {
+                "gender": "male",
+                "score": 5
+            },
+            "000050118": {
+                "gender": "male",
+                "score": 5
+            },
+            "000050122": {
+                "gender": "male",
+                "score": 5
+            },
+            "000480014": {
+                "gender": "male",
+                "score": 5
+            },
+            "000480016": {
+                "gender": "male",
+                "score": 6
+            },
+            "000480023": {
+                "gender": "male",
+                "score": 6
+            },
+            "000480033": {
+                "gender": "male",
+                "score": 5
+            },
+            "000480081": {
+                "gender": "male",
+                "score": 5
+            },
+            "000480090": {
+                "gender": "male",
+                "score": 4
+            },
+            "000480108": {
+                "gender": "male",
+                "score": 5
+            },
+            "000480125": {
+                "gender": "male",
+                "score": 4
+            },
+            "000480134": {
+                "gender": "male",
+                "score": 5
+            },
+            "000480136": {
+                "gender": "male",
+                "score": 4
+            },
+            "000480151": {
+                "gender": "male",
+                "score": 6
+            },
+            "000540062": {
+                "gender": "male",
+                "score": 5
+            },
+            "000560026": {
+                "gender": "male",
+                "score": 6
+            },
+            "000560038": {
+                "gender": "male",
+                "score": 6
+            },
+            "000560058": {
+                "gender": "male",
+                "score": 6
+            },
+            "000560117": {
+                "gender": "male",
+                "score": 6
+            },
+            "000560159": {
+                "gender": "male",
+                "score": 6
+            },
+            "000560162": {
+                "gender": "male",
+                "score": 6
+            },
+            "000750068": {
+                "gender": "male",
+                "score": 6
+            },
+            "000750128": {
+                "gender": "male",
+                "score": 5
+            },
+            "000750134": {
+                "gender": "male",
+                "score": 6
+            },
+            "001310162": {
+                "gender": "male",
+                "score": 4
+            },
+            "004820370": {
+                "gender": "male",
+                "score": 4
+            },
+            "005600015": {
+                "gender": "male",
+                "score": 6
+            },
+            "005600129": {
+                "gender": "male",
+                "score": 6
+            },
+            "005600205": {
+                "gender": "male",
+                "score": 6
+            },
+            "005600214": {
+                "gender": "male",
+                "score": 6
+            },
+            "005600296": {
+                "gender": "male",
+                "score": 5
+            },
+            "005600318": {
+                "gender": "male",
+                "score": 6
+            },
+            "007390013": {
+                "gender": "male",
+                "score": 5
+            },
+            "007390019": {
+                "gender": "male",
+                "score": 4
+            },
+            "007390062": {
+                "gender": "male",
+                "score": 6
+            },
+            "007390070": {
+                "gender": "male",
+                "score": 6
+            },
+            "007390139": {
+                "gender": "male",
+                "score": 6
+            },
+            "007390160": {
+                "gender": "male",
+                "score": 6
+            },
+            "007390195": {
+                "gender": "male",
+                "score": 6
+            },
+            "007390197": {
+                "gender": "male",
+                "score": 6
+            },
+            "007390208": {
+                "gender": "male",
+                "score": 6
+            },
+            "007390211": {
+                "gender": "male",
+                "score": 6
+            },
+            "007390220": {
+                "gender": "male",
+                "score": 6
+            },
+            "007390238": {
+                "gender": "male",
+                "score": 6
+            },
+            "007390281": {
+                "gender": "male",
+                "score": 6
+            },
+            "007390355": {
+                "gender": "male",
+                "score": 6
+            },
+            "009600335": {
+                "gender": "male",
+                "score": 6
+            },
+            "009600337": {
+                "gender": "male",
+                "score": 5
+            },
+            "010640056": {
+                "gender": "male",
+                "score": 5
+            },
+            "010640366": {
+                "gender": "male",
+                "score": 5
+            },
+            "010920024": {
+                "gender": "male",
+                "score": 6
+            },
+            "010920025": {
+                "gender": "male",
+                "score": 5
+            },
+            "010920033": {
+                "gender": "male",
+                "score": 6
+            },
+            "010920065": {
+                "gender": "male",
+                "score": 6
+            },
+            "010920070": {
+                "gender": "male",
+                "score": 6
+            },
+            "010920125": {
+                "gender": "male",
+                "score": 4
+            },
+            "010920138": {
+                "gender": "male",
+                "score": 5
+            },
+            "011970132": {
+                "gender": "male",
+                "score": 6
+            },
+            "012030053": {
+                "gender": "male",
+                "score": 6
+            },
+            "013360001": {
+                "gender": "male",
+                "score": 4
+            },
+            "013360162": {
+                "gender": "male",
+                "score": 6
+            },
+            "014070336": {
+                "gender": "male",
+                "score": 6
+            },
+            "014070341": {
+                "gender": "male",
+                "score": 6
+            },
+            "014180143": {
+                "gender": "male",
+                "score": 6
+            },
+            "014190025": {
+                "gender": "male",
+                "score": 6
+            },
+            "014190060": {
+                "gender": "male",
+                "score": 5
+            },
+            "014190062": {
+                "gender": "male",
+                "score": 4
+            },
+            "014190098": {
+                "gender": "male",
+                "score": 6
+            },
+            "014350017": {
+                "gender": "male",
+                "score": 6
+            },
+            "014350018": {
+                "gender": "male",
+                "score": 6
+            },
+            "014350103": {
+                "gender": "male",
+                "score": 4
+            },
+            "014350127": {
+                "gender": "male",
+                "score": 5
+            },
+            "014350133": {
+                "gender": "male",
+                "score": 3
+            },
+            "014350146": {
+                "gender": "male",
+                "score": 4
+            },
+            "014470150": {
+                "gender": "male",
+                "score": 4
+            },
+            "020340109": {
+                "gender": "male",
+                "score": 6
+            },
+            "030020126": {
+                "gender": "male",
+                "score": 6
+            },
+            "030490095": {
+                "gender": "male",
+                "score": 6
+            },
+            "030490166": {
+                "gender": "male",
+                "score": 3
+            },
+            "030880003": {
+                "gender": "male",
+                "score": 6
+            },
+            "030880099": {
+                "gender": "male",
+                "score": 6
+            },
+            "069120014": {
+                "gender": "male",
+                "score": 4
+            },
+            "069120072": {
+                "gender": "male",
+                "score": 6
+            },
+            "085850042": {
+                "gender": "male",
+                "score": 6
+            },
+            "085850044": {
+                "gender": "male",
+                "score": 6
+            },
+            "085850092": {
+                "gender": "male",
+                "score": 6
+            },
+            "095560054": {
+                "gender": "male",
+                "score": 6
+            },
+            "095560129": {
+                "gender": "male",
+                "score": 6
+            },
+            "096090001": {
+                "gender": "male",
+                "score": 3
+            },
+            "096090003": {
+                "gender": "male",
+                "score": 3
+            },
+            "096090005": {
+                "gender": "male",
+                "score": 4
+            },
+            "096090006": {
+                "gender": "male",
+                "score": 3
+            },
+            "096090007": {
+                "gender": "male",
+                "score": 3
+            },
+            "096090008": {
+                "gender": "male",
+                "score": 4
+            },
+            "096090010": {
+                "gender": "male",
+                "score": 3
+            },
+            "096090011": {
+                "gender": "male",
+                "score": 3
+            },
+            "096090014": {
+                "gender": "male",
+                "score": 4
+            },
+            "096090015": {
+                "gender": "male",
+                "score": 3
+            },
+            "096090017": {
+                "gender": "male",
+                "score": 3
+            },
+            "096090018": {
+                "gender": "male",
+                "score": 4
+            },
+            "096090019": {
+                "gender": "male",
+                "score": 3
+            },
+            "096090020": {
+                "gender": "male",
+                "score": 3
+            },
+            "096090021": {
+                "gender": "male",
+                "score": 4
+            },
+            "096090023": {
+                "gender": "male",
+                "score": 2
+            },
+            "096090024": {
+                "gender": "male",
+                "score": 3
+            },
+            "096090025": {
+                "gender": "male",
+                "score": 4
+            },
+            "096090026": {
+                "gender": "male",
+                "score": 3
+            },
+            "096090027": {
+                "gender": "male",
+                "score": 3
+            },
+            "096240001": {
+                "gender": "male",
+                "score": 6
+            },
+            "096240002": {
+                "gender": "male",
+                "score": 5
+            },
+            "096240003": {
+                "gender": "male",
+                "score": 5
+            },
+            "096240004": {
+                "gender": "male",
+                "score": 3
+            },
+            "096240005": {
+                "gender": "male",
+                "score": 6
+            },
+            "096240006": {
+                "gender": "male",
+                "score": 4
+            },
+            "096240007": {
+                "gender": "male",
+                "score": 3
+            },
+            "096240009": {
+                "gender": "male",
+                "score": 4
+            },
+            "096240010": {
+                "gender": "male",
+                "score": 3
+            },
+            "096240011": {
+                "gender": "male",
+                "score": 4
+            },
+            "096240012": {
+                "gender": "male",
+                "score": 4
+            },
+            "096240013": {
+                "gender": "male",
+                "score": 6
+            },
+            "096240014": {
+                "gender": "male",
+                "score": 4
+            },
+            "096240015": {
+                "gender": "male",
+                "score": 5
+            },
+            "096240016": {
+                "gender": "male",
+                "score": 3
+            },
+            "096240017": {
+                "gender": "male",
+                "score": 4
+            },
+            "096240019": {
+                "gender": "male",
+                "score": 4
+            },
+            "096240020": {
+                "gender": "male",
+                "score": 3
+            },
+            "096240021": {
+                "gender": "male",
+                "score": 4
+            },
+            "096280011": {
+                "gender": "male",
+                "score": 4
+            },
+            "096280012": {
+                "gender": "male",
+                "score": 3
+            },
+            "096280013": {
+                "gender": "male",
+                "score": 4
+            },
+            "096280014": {
+                "gender": "male",
+                "score": 5
+            },
+            "096280015": {
+                "gender": "male",
+                "score": 3
+            },
+            "096280016": {
+                "gender": "male",
+                "score": 4
+            },
+            "096280017": {
+                "gender": "male",
+                "score": 5
+            },
+            "096280018": {
+                "gender": "male",
+                "score": 3
+            },
+            "096280019": {
+                "gender": "male",
+                "score": 4
+            },
+            "096280020": {
+                "gender": "male",
+                "score": 5
+            },
+            "096280021": {
+                "gender": "male",
+                "score": 3
+            },
+            "096280022": {
+                "gender": "male",
+                "score": 4
+            },
+            "096280023": {
+                "gender": "male",
+                "score": 5
+            },
+            "096280024": {
+                "gender": "male",
+                "score": 5
+            },
+            "096280025": {
+                "gender": "male",
+                "score": 4
+            },
+            "096280027": {
+                "gender": "male",
+                "score": 3
+            },
+            "096280028": {
+                "gender": "male",
+                "score": 4
+            },
+            "096280029": {
+                "gender": "male",
+                "score": 5
+            },
+            "096280030": {
+                "gender": "male",
+                "score": 3
+            },
+            "096390001": {
+                "gender": "male",
+                "score": 5
+            },
+            "096390002": {
+                "gender": "male",
+                "score": 6
+            },
+            "096390003": {
+                "gender": "male",
+                "score": 4
+            },
+            "096390004": {
+                "gender": "male",
+                "score": 6
+            },
+            "096390005": {
+                "gender": "male",
+                "score": 5
+            },
+            "096390006": {
+                "gender": "male",
+                "score": 4
+            },
+            "096390011": {
+                "gender": "male",
+                "score": 6
+            },
+            "096390012": {
+                "gender": "male",
+                "score": 5
+            },
+            "096390013": {
+                "gender": "male",
+                "score": 5
+            },
+            "096390016": {
+                "gender": "male",
+                "score": 5
+            },
+            "096390018": {
+                "gender": "male",
+                "score": 4
+            },
+            "096390019": {
+                "gender": "male",
+                "score": 6
+            },
+            "096390020": {
+                "gender": "male",
+                "score": 3
+            },
+            "096490001": {
+                "gender": "male",
+                "score": 5
+            },
+            "096490002": {
+                "gender": "male",
+                "score": 4
+            },
+            "096490003": {
+                "gender": "male",
+                "score": 3
+            },
+            "096490004": {
+                "gender": "male",
+                "score": 4
+            },
+            "096490005": {
+                "gender": "male",
+                "score": 4
+            },
+            "096490006": {
+                "gender": "male",
+                "score": 3
+            },
+            "096490007": {
+                "gender": "male",
+                "score": 3
+            },
+            "096490008": {
+                "gender": "male",
+                "score": 4
+            },
+            "096490009": {
+                "gender": "male",
+                "score": 3
+            },
+            "096490010": {
+                "gender": "male",
+                "score": 6
+            },
+            "096490011": {
+                "gender": "male",
+                "score": 3
+            },
+            "096490012": {
+                "gender": "male",
+                "score": 3
+            },
+            "096490013": {
+                "gender": "male",
+                "score": 6
+            },
+            "096490014": {
+                "gender": "male",
+                "score": 6
+            },
+            "096490015": {
+                "gender": "male",
+                "score": 5
+            },
+            "096490016": {
+                "gender": "male",
+                "score": 3
+            },
+            "096490017": {
+                "gender": "male",
+                "score": 5
+            },
+            "096490018": {
+                "gender": "male",
+                "score": 3
+            },
+            "096490019": {
+                "gender": "male",
+                "score": 5
+            },
+            "096490020": {
+                "gender": "male",
+                "score": 4
+            },
+            "070010001": {
+                "gender": "male",
+                "score": 6
+            },
+            "070010002": {
+                "gender": "male",
+                "score": 5
+            },
+            "070010003": {
+                "gender": "male",
+                "score": 5
+            },
+            "070010004": {
+                "gender": "male",
+                "score": 3
+            },
+            "070010005": {
+                "gender": "male",
+                "score": 4
+            },
+            "070010006": {
+                "gender": "male",
+                "score": 4
+            },
+            "070010007": {
+                "gender": "male",
+                "score": 5
+            },
+            "070010008": {
+                "gender": "male",
+                "score": 4
+            },
+            "070010009": {
+                "gender": "male",
+                "score": 5
+            },
+            "070010010": {
+                "gender": "male",
+                "score": 3
+            },
+            "070010011": {
+                "gender": "male",
+                "score": 6
+            },
+            "070010012": {
+                "gender": "male",
+                "score": 5
+            },
+            "070010013": {
+                "gender": "male",
+                "score": 6
+            },
+            "070010014": {
+                "gender": "male",
+                "score": 5
+            },
+            "070010015": {
+                "gender": "male",
+                "score": 4
+            },
+            "070010016": {
+                "gender": "male",
+                "score": 5
+            },
+            "070010017": {
+                "gender": "male",
+                "score": 4
+            },
+            "070010018": {
+                "gender": "male",
+                "score": 5
+            },
+            "070010019": {
+                "gender": "male",
+                "score": 5
+            },
+            "070010020": {
+                "gender": "male",
+                "score": 4
+            },
+            "080020001": {
+                "gender": "male",
+                "score": 5
+            },
+            "080020002": {
+                "gender": "male",
+                "score": 3
+            },
+            "080020003": {
+                "gender": "male",
+                "score": 3
+            },
+            "080020004": {
+                "gender": "male",
+                "score": 6
+            },
+            "080020005": {
+                "gender": "male",
+                "score": 3
+            },
+            "080020006": {
+                "gender": "male",
+                "score": 4
+            },
+            "080020007": {
+                "gender": "male",
+                "score": 5
+            },
+            "080020008": {
+                "gender": "male",
+                "score": 3
+            },
+            "080020009": {
+                "gender": "male",
+                "score": 4
+            },
+            "080020010": {
+                "gender": "male",
+                "score": 5
+            },
+            "080020011": {
+                "gender": "male",
+                "score": 6
+            },
+            "080020012": {
+                "gender": "male",
+                "score": 4
+            },
+            "080020013": {
+                "gender": "male",
+                "score": 5
+            },
+            "080020014": {
+                "gender": "male",
+                "score": 3
+            },
+            "080020015": {
+                "gender": "male",
+                "score": 6
+            },
+            "080020016": {
+                "gender": "male",
+                "score": 5
+            },
+            "080020017": {
+                "gender": "male",
+                "score": 6
+            },
+            "080020018": {
+                "gender": "male",
+                "score": 4
+            },
+            "080020019": {
+                "gender": "male",
+                "score": 5
+            },
+            "080020020": {
+                "gender": "male",
+                "score": 5
+            },
+            "096190001": {
+                "gender": "male",
+                "score": 5
+            },
+            "096190003": {
+                "gender": "male",
+                "score": 5
+            },
+            "096190004": {
+                "gender": "male",
+                "score": 5
+            },
+            "096190005": {
+                "gender": "male",
+                "score": 3
+            },
+            "096190006": {
+                "gender": "male",
+                "score": 6
+            },
+            "096190007": {
+                "gender": "male",
+                "score": 5
+            },
+            "096190008": {
+                "gender": "male",
+                "score": 5
+            },
+            "096190009": {
+                "gender": "male",
+                "score": 4
+            },
+            "096190010": {
+                "gender": "male",
+                "score": 4
+            },
+            "096190011": {
+                "gender": "male",
+                "score": 3
+            },
+            "096190012": {
+                "gender": "male",
+                "score": 4
+            },
+            "096190013": {
+                "gender": "male",
+                "score": 5
+            },
+            "096190014": {
+                "gender": "male",
+                "score": 3
+            },
+            "096190015": {
+                "gender": "male",
+                "score": 4
+            },
+            "096190016": {
+                "gender": "male",
+                "score": 5
+            },
+            "096190017": {
+                "gender": "male",
+                "score": 3
+            },
+            "096190019": {
+                "gender": "male",
+                "score": 6
+            },
+            "096190020": {
+                "gender": "male",
+                "score": 5
+            },
+            "096190021": {
+                "gender": "male",
+                "score": 6
+            },
+            "096340004": {
+                "gender": "male",
+                "score": 5
+            },
+            "096340005": {
+                "gender": "male",
+                "score": 5
+            },
+            "096340006": {
+                "gender": "male",
+                "score": 3
+            },
+            "096340007": {
+                "gender": "male",
+                "score": 4
+            },
+            "096340008": {
+                "gender": "male",
+                "score": 4
+            },
+            "096340009": {
+                "gender": "male",
+                "score": 3
+            },
+            "096340010": {
+                "gender": "male",
+                "score": 3
+            },
+            "096340011": {
+                "gender": "male",
+                "score": 4
+            },
+            "096340012": {
+                "gender": "male",
+                "score": 3
+            },
+            "096340013": {
+                "gender": "male",
+                "score": 3
+            },
+            "096340014": {
+                "gender": "male",
+                "score": 4
+            },
+            "096340015": {
+                "gender": "male",
+                "score": 2
+            },
+            "096340016": {
+                "gender": "male",
+                "score": 4
+            },
+            "096340017": {
+                "gender": "male",
+                "score": 4
+            },
+            "096340018": {
+                "gender": "male",
+                "score": 3
+            },
+            "096340019": {
+                "gender": "male",
+                "score": 4
+            },
+            "096340020": {
+                "gender": "male",
+                "score": 4
+            },
+            "096340021": {
+                "gender": "male",
+                "score": 3
+            },
+            "096340022": {
+                "gender": "male",
+                "score": 3
+            },
+            "096340023": {
+                "gender": "male",
+                "score": 4
+            }
+        },
+        "female": {
+            "000260001": {
+                "gender": "female",
+                "score": 6
+            },
+            "000530145": {
+                "gender": "female",
+                "score": 4
+            },
+            "000700063": {
+                "gender": "female",
+                "score": 6
+            },
+            "000700065": {
+                "gender": "female",
+                "score": 5
+            },
+            "001040108": {
+                "gender": "female",
+                "score": 6
+            },
+            "001450051": {
+                "gender": "female",
+                "score": 6
+            },
+            "001450063": {
+                "gender": "female",
+                "score": 5
+            },
+            "001450109": {
+                "gender": "female",
+                "score": 5
+            },
+            "001450116": {
+                "gender": "female",
+                "score": 6
+            },
+            "001450140": {
+                "gender": "female",
+                "score": 6
+            },
+            "005750059": {
+                "gender": "female",
+                "score": 6
+            },
+            "005750099": {
+                "gender": "female",
+                "score": 6
+            },
+            "005750268": {
+                "gender": "female",
+                "score": 6
+            },
+            "005750270": {
+                "gender": "female",
+                "score": 6
+            },
+            "005750300": {
+                "gender": "female",
+                "score": 6
+            },
+            "005940195": {
+                "gender": "female",
+                "score": 4
+            },
+            "005940234": {
+                "gender": "female",
+                "score": 5
+            },
+            "005940237": {
+                "gender": "female",
+                "score": 6
+            },
+            "005940238": {
+                "gender": "female",
+                "score": 6
+            },
+            "005940252": {
+                "gender": "female",
+                "score": 6
+            },
+            "005940267": {
+                "gender": "female",
+                "score": 3
+            },
+            "005940318": {
+                "gender": "female",
+                "score": 6
+            },
+            "005940373": {
+                "gender": "female",
+                "score": 6
+            },
+            "005940380": {
+                "gender": "female",
+                "score": 3
+            },
+            "029810204": {
+                "gender": "female",
+                "score": 6
+            },
+            "030210118": {
+                "gender": "female",
+                "score": 5
+            },
+            "052180041": {
+                "gender": "female",
+                "score": 6
+            },
+            "054240025": {
+                "gender": "female",
+                "score": 6
+            },
+            "060100100": {
+                "gender": "female",
+                "score": 6
+            },
+            "064010057": {
+                "gender": "female",
+                "score": 6
+            },
+            "064010135": {
+                "gender": "female",
+                "score": 6
+            },
+            "064010150": {
+                "gender": "female",
+                "score": 5
+            },
+            "064010173": {
+                "gender": "female",
+                "score": 6
+            },
+            "096040001": {
+                "gender": "female",
+                "score": 4
+            },
+            "096040002": {
+                "gender": "female",
+                "score": 3
+            },
+            "096040005": {
+                "gender": "female",
+                "score": 4
+            },
+            "096040006": {
+                "gender": "female",
+                "score": 3
+            },
+            "096040007": {
+                "gender": "female",
+                "score": 4
+            },
+            "096040008": {
+                "gender": "female",
+                "score": 5
+            },
+            "096040009": {
+                "gender": "female",
+                "score": 5
+            },
+            "096040010": {
+                "gender": "female",
+                "score": 4
+            },
+            "096040011": {
+                "gender": "female",
+                "score": 4
+            },
+            "096040012": {
+                "gender": "female",
+                "score": 3
+            },
+            "096040014": {
+                "gender": "female",
+                "score": 3
+            },
+            "096040015": {
+                "gender": "female",
+                "score": 4
+            },
+            "096040016": {
+                "gender": "female",
+                "score": 3
+            },
+            "096040018": {
+                "gender": "female",
+                "score": 3
+            },
+            "096040019": {
+                "gender": "female",
+                "score": 4
+            },
+            "096040021": {
+                "gender": "female",
+                "score": 3
+            },
+            "096040023": {
+                "gender": "female",
+                "score": 4
+            },
+            "096040024": {
+                "gender": "female",
+                "score": 4
+            },
+            "096040025": {
+                "gender": "female",
+                "score": 3
+            },
+            "096130001": {
+                "gender": "female",
+                "score": 4
+            },
+            "096130002": {
+                "gender": "female",
+                "score": 5
+            },
+            "096130003": {
+                "gender": "female",
+                "score": 5
+            },
+            "096130004": {
+                "gender": "female",
+                "score": 6
+            },
+            "096130005": {
+                "gender": "female",
+                "score": 4
+            },
+            "096130007": {
+                "gender": "female",
+                "score": 4
+            },
+            "096130008": {
+                "gender": "female",
+                "score": 5
+            },
+            "096130009": {
+                "gender": "female",
+                "score": 3
+            },
+            "096130010": {
+                "gender": "female",
+                "score": 5
+            },
+            "096130011": {
+                "gender": "female",
+                "score": 5
+            },
+            "096130012": {
+                "gender": "female",
+                "score": 3
+            },
+            "096130013": {
+                "gender": "female",
+                "score": 4
+            },
+            "096130014": {
+                "gender": "female",
+                "score": 4
+            },
+            "096130016": {
+                "gender": "female",
+                "score": 2
+            },
+            "096130017": {
+                "gender": "female",
+                "score": 5
+            },
+            "096130018": {
+                "gender": "female",
+                "score": 4
+            },
+            "096130019": {
+                "gender": "female",
+                "score": 3
+            },
+            "096130020": {
+                "gender": "female",
+                "score": 5
+            },
+            "096130021": {
+                "gender": "female",
+                "score": 6
+            },
+            "096140002": {
+                "gender": "female",
+                "score": 3
+            },
+            "096140003": {
+                "gender": "female",
+                "score": 5
+            },
+            "096140004": {
+                "gender": "female",
+                "score": 6
+            },
+            "096140006": {
+                "gender": "female",
+                "score": 5
+            },
+            "096140007": {
+                "gender": "female",
+                "score": 6
+            },
+            "096140008": {
+                "gender": "female",
+                "score": 3
+            },
+            "096140009": {
+                "gender": "female",
+                "score": 6
+            },
+            "096140010": {
+                "gender": "female",
+                "score": 5
+            },
+            "096140011": {
+                "gender": "female",
+                "score": 3
+            },
+            "096140012": {
+                "gender": "female",
+                "score": 4
+            },
+            "096140015": {
+                "gender": "female",
+                "score": 6
+            },
+            "096140017": {
+                "gender": "female",
+                "score": 5
+            },
+            "096140018": {
+                "gender": "female",
+                "score": 3
+            },
+            "096140019": {
+                "gender": "female",
+                "score": 6
+            },
+            "096140020": {
+                "gender": "female",
+                "score": 5
+            },
+            "096140022": {
+                "gender": "female",
+                "score": 6
+            },
+            "096150005": {
+                "gender": "female",
+                "score": 5
+            },
+            "096150007": {
+                "gender": "female",
+                "score": 5
+            },
+            "096150009": {
+                "gender": "female",
+                "score": 5
+            },
+            "096150010": {
+                "gender": "female",
+                "score": 6
+            },
+            "096150011": {
+                "gender": "female",
+                "score": 6
+            },
+            "096150012": {
+                "gender": "female",
+                "score": 3
+            },
+            "096150013": {
+                "gender": "female",
+                "score": 6
+            },
+            "096150016": {
+                "gender": "female",
+                "score": 5
+            },
+            "096150017": {
+                "gender": "female",
+                "score": 5
+            },
+            "096150019": {
+                "gender": "female",
+                "score": 5
+            },
+            "096150020": {
+                "gender": "female",
+                "score": 5
+            },
+            "096150021": {
+                "gender": "female",
+                "score": 5
+            },
+            "096150024": {
+                "gender": "female",
+                "score": 5
+            },
+            "096150025": {
+                "gender": "female",
+                "score": 5
+            },
+            "096150026": {
+                "gender": "female",
+                "score": 4
+            },
+            "096150027": {
+                "gender": "female",
+                "score": 5
+            },
+            "096160001": {
+                "gender": "female",
+                "score": 4
+            },
+            "096160003": {
+                "gender": "female",
+                "score": 6
+            },
+            "096160004": {
+                "gender": "female",
+                "score": 5
+            },
+            "096160005": {
+                "gender": "female",
+                "score": 5
+            },
+            "096160006": {
+                "gender": "female",
+                "score": 3
+            },
+            "096160007": {
+                "gender": "female",
+                "score": 6
+            },
+            "096160008": {
+                "gender": "female",
+                "score": 5
+            },
+            "096160009": {
+                "gender": "female",
+                "score": 6
+            },
+            "096160010": {
+                "gender": "female",
+                "score": 4
+            },
+            "096160012": {
+                "gender": "female",
+                "score": 6
+            },
+            "096160013": {
+                "gender": "female",
+                "score": 6
+            },
+            "096160014": {
+                "gender": "female",
+                "score": 5
+            },
+            "096160015": {
+                "gender": "female",
+                "score": 5
+            },
+            "096160016": {
+                "gender": "female",
+                "score": 3
+            },
+            "096160017": {
+                "gender": "female",
+                "score": 5
+            },
+            "096160018": {
+                "gender": "female",
+                "score": 5
+            },
+            "096160019": {
+                "gender": "female",
+                "score": 4
+            },
+            "096160020": {
+                "gender": "female",
+                "score": 5
+            },
+            "096430002": {
+                "gender": "female",
+                "score": 4
+            },
+            "096430005": {
+                "gender": "female",
+                "score": 3
+            },
+            "096430006": {
+                "gender": "female",
+                "score": 4
+            },
+            "096430007": {
+                "gender": "female",
+                "score": 3
+            },
+            "096430008": {
+                "gender": "female",
+                "score": 3
+            },
+            "096430009": {
+                "gender": "female",
+                "score": 4
+            },
+            "096430010": {
+                "gender": "female",
+                "score": 2
+            },
+            "096430013": {
+                "gender": "female",
+                "score": 2
+            },
+            "096430015": {
+                "gender": "female",
+                "score": 4
+            },
+            "096430016": {
+                "gender": "female",
+                "score": 2
+            },
+            "096430017": {
+                "gender": "female",
+                "score": 3
+            },
+            "096430019": {
+                "gender": "female",
+                "score": 2
+            },
+            "096430020": {
+                "gender": "female",
+                "score": 3
+            },
+            "096430021": {
+                "gender": "female",
+                "score": 4
+            },
+            "096460002": {
+                "gender": "female",
+                "score": 3
+            },
+            "096460003": {
+                "gender": "female",
+                "score": 3
+            },
+            "096460004": {
+                "gender": "female",
+                "score": 4
+            },
+            "096460005": {
+                "gender": "female",
+                "score": 3
+            },
+            "096460006": {
+                "gender": "female",
+                "score": 3
+            },
+            "096460007": {
+                "gender": "female",
+                "score": 5
+            },
+            "096460008": {
+                "gender": "female",
+                "score": 3
+            },
+            "096460010": {
+                "gender": "female",
+                "score": 5
+            },
+            "096460011": {
+                "gender": "female",
+                "score": 3
+            },
+            "096460014": {
+                "gender": "female",
+                "score": 6
+            },
+            "096460016": {
+                "gender": "female",
+                "score": 6
+            },
+            "096460019": {
+                "gender": "female",
+                "score": 5
+            },
+            "096460020": {
+                "gender": "female",
+                "score": 3
+            },
+            "096460021": {
+                "gender": "female",
+                "score": 4
+            },
+            "096000002": {
+                "gender": "female",
+                "score": 4
+            },
+            "096000003": {
+                "gender": "female",
+                "score": 5
+            },
+            "096000004": {
+                "gender": "female",
+                "score": 3
+            },
+            "096000005": {
+                "gender": "female",
+                "score": 4
+            },
+            "096000006": {
+                "gender": "female",
+                "score": 4
+            },
+            "096000007": {
+                "gender": "female",
+                "score": 3
+            },
+            "096000008": {
+                "gender": "female",
+                "score": 4
+            },
+            "096000009": {
+                "gender": "female",
+                "score": 5
+            },
+            "096000010": {
+                "gender": "female",
+                "score": 3
+            },
+            "096000012": {
+                "gender": "female",
+                "score": 5
+            },
+            "096000013": {
+                "gender": "female",
+                "score": 3
+            },
+            "096000014": {
+                "gender": "female",
+                "score": 4
+            },
+            "096000016": {
+                "gender": "female",
+                "score": 5
+            },
+            "096000017": {
+                "gender": "female",
+                "score": 4
+            },
+            "096000018": {
+                "gender": "female",
+                "score": 5
+            },
+            "096000020": {
+                "gender": "female",
+                "score": 5
+            },
+            "096000021": {
+                "gender": "female",
+                "score": 4
+            },
+            "096000022": {
+                "gender": "female",
+                "score": 6
+            },
+            "096060001": {
+                "gender": "female",
+                "score": 3
+            },
+            "096060002": {
+                "gender": "female",
+                "score": 4
+            },
+            "096060003": {
+                "gender": "female",
+                "score": 5
+            },
+            "096060004": {
+                "gender": "female",
+                "score": 3
+            },
+            "096060006": {
+                "gender": "female",
+                "score": 4
+            },
+            "096060007": {
+                "gender": "female",
+                "score": 3
+            },
+            "096060008": {
+                "gender": "female",
+                "score": 3
+            },
+            "096060009": {
+                "gender": "female",
+                "score": 4
+            },
+            "096060010": {
+                "gender": "female",
+                "score": 5
+            },
+            "096060012": {
+                "gender": "female",
+                "score": 5
+            },
+            "096060013": {
+                "gender": "female",
+                "score": 3
+            },
+            "096060014": {
+                "gender": "female",
+                "score": 3
+            },
+            "096060015": {
+                "gender": "female",
+                "score": 5
+            },
+            "096060016": {
+                "gender": "female",
+                "score": 3
+            },
+            "096060017": {
+                "gender": "female",
+                "score": 4
+            },
+            "096060019": {
+                "gender": "female",
+                "score": 5
+            },
+            "096060020": {
+                "gender": "female",
+                "score": 3
+            },
+            "096070002": {
+                "gender": "female",
+                "score": 6
+            },
+            "096070003": {
+                "gender": "female",
+                "score": 6
+            },
+            "096070005": {
+                "gender": "female",
+                "score": 6
+            },
+            "096070006": {
+                "gender": "female",
+                "score": 5
+            },
+            "096070008": {
+                "gender": "female",
+                "score": 4
+            },
+            "096070011": {
+                "gender": "female",
+                "score": 6
+            },
+            "096070012": {
+                "gender": "female",
+                "score": 3
+            },
+            "096070013": {
+                "gender": "female",
+                "score": 6
+            },
+            "096070014": {
+                "gender": "female",
+                "score": 5
+            },
+            "096070016": {
+                "gender": "female",
+                "score": 4
+            },
+            "096070017": {
+                "gender": "female",
+                "score": 5
+            },
+            "096070018": {
+                "gender": "female",
+                "score": 3
+            },
+            "096070021": {
+                "gender": "female",
+                "score": 3
+            },
+            "096070022": {
+                "gender": "female",
+                "score": 6
+            },
+            "096070024": {
+                "gender": "female",
+                "score": 6
+            },
+            "096110001": {
+                "gender": "female",
+                "score": 4
+            },
+            "096110004": {
+                "gender": "female",
+                "score": 5
+            },
+            "096110005": {
+                "gender": "female",
+                "score": 5
+            },
+            "096110006": {
+                "gender": "female",
+                "score": 3
+            },
+            "096110011": {
+                "gender": "female",
+                "score": 5
+            },
+            "096110012": {
+                "gender": "female",
+                "score": 4
+            },
+            "096110014": {
+                "gender": "female",
+                "score": 6
+            },
+            "096110016": {
+                "gender": "female",
+                "score": 5
+            },
+            "096110017": {
+                "gender": "female",
+                "score": 3
+            },
+            "096110018": {
+                "gender": "female",
+                "score": 4
+            },
+            "096110019": {
+                "gender": "female",
+                "score": 5
+            },
+            "096110021": {
+                "gender": "female",
+                "score": 3
+            },
+            "096110023": {
+                "gender": "female",
+                "score": 5
+            },
+            "096250001": {
+                "gender": "female",
+                "score": 5
+            },
+            "096250002": {
+                "gender": "female",
+                "score": 4
+            },
+            "096250003": {
+                "gender": "female",
+                "score": 4
+            },
+            "096250004": {
+                "gender": "female",
+                "score": 3
+            },
+            "096250005": {
+                "gender": "female",
+                "score": 5
+            },
+            "096250007": {
+                "gender": "female",
+                "score": 5
+            },
+            "096250008": {
+                "gender": "female",
+                "score": 3
+            },
+            "096250009": {
+                "gender": "female",
+                "score": 4
+            },
+            "096250011": {
+                "gender": "female",
+                "score": 3
+            },
+            "096250012": {
+                "gender": "female",
+                "score": 4
+            },
+            "096250015": {
+                "gender": "female",
+                "score": 4
+            },
+            "096250016": {
+                "gender": "female",
+                "score": 5
+            },
+            "096250017": {
+                "gender": "female",
+                "score": 3
+            },
+            "096250018": {
+                "gender": "female",
+                "score": 4
+            },
+            "096250020": {
+                "gender": "female",
+                "score": 5
+            },
+            "096250021": {
+                "gender": "female",
+                "score": 3
+            },
+            "096250023": {
+                "gender": "female",
+                "score": 4
+            },
+            "096300001": {
+                "gender": "female",
+                "score": 5
+            },
+            "096300002": {
+                "gender": "female",
+                "score": 6
+            },
+            "096300003": {
+                "gender": "female",
+                "score": 5
+            },
+            "096300004": {
+                "gender": "female",
+                "score": 3
+            },
+            "096300005": {
+                "gender": "female",
+                "score": 6
+            },
+            "096300007": {
+                "gender": "female",
+                "score": 3
+            },
+            "096300008": {
+                "gender": "female",
+                "score": 4
+            },
+            "096300009": {
+                "gender": "female",
+                "score": 6
+            },
+            "096300011": {
+                "gender": "female",
+                "score": 4
+            },
+            "096300012": {
+                "gender": "female",
+                "score": 6
+            },
+            "096300015": {
+                "gender": "female",
+                "score": 6
+            },
+            "096300016": {
+                "gender": "female",
+                "score": 3
+            },
+            "096300017": {
+                "gender": "female",
+                "score": 5
+            },
+            "096300018": {
+                "gender": "female",
+                "score": 5
+            },
+            "096300019": {
+                "gender": "female",
+                "score": 3
+            },
+            "096300020": {
+                "gender": "female",
+                "score": 4
+            },
+            "096450001": {
+                "gender": "female",
+                "score": 5
+            },
+            "096450002": {
+                "gender": "female",
+                "score": 3
+            },
+            "096450003": {
+                "gender": "female",
+                "score": 4
+            },
+            "096450004": {
+                "gender": "female",
+                "score": 4
+            },
+            "096450006": {
+                "gender": "female",
+                "score": 4
+            },
+            "096450007": {
+                "gender": "female",
+                "score": 4
+            },
+            "096450010": {
+                "gender": "female",
+                "score": 4
+            },
+            "096450011": {
+                "gender": "female",
+                "score": 4
+            },
+            "096450012": {
+                "gender": "female",
+                "score": 6
+            },
+            "096450013": {
+                "gender": "female",
+                "score": 6
+            },
+            "096450014": {
+                "gender": "female",
+                "score": 5
+            },
+            "096450015": {
+                "gender": "female",
+                "score": 6
+            },
+            "096450016": {
+                "gender": "female",
+                "score": 4
+            },
+            "096450017": {
+                "gender": "female",
+                "score": 4
+            },
+            "096450020": {
+                "gender": "female",
+                "score": 4
+            },
+            "096450021": {
+                "gender": "female",
+                "score": 3
+            }
+        }
+    }
+}
